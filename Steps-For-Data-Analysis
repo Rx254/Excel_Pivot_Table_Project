@@ -1,0 +1,15 @@
+Formated table as Excel table to make it easier to update/auto-expand in future when new data is available. (ctrl+T)
+Created Pivot table from excel table. (Table Design/Format as/Summarize with pivot table)
+Pivoting/Analyzing data using pivot fields: Computed SUM OF SALES for two stores/ compared SUM OF SALES for different MANAGERS/ calculated SUM OF SALES per Category and Manager/ Ordered SUM OF SALES per month for each manager.
+Used pivot table tools to adjust and preserve cell width.
+Used VALUE FIELD SETTING to calculate count of sales and percentage of grand total.
+Used DESIGN tool tab to change formatting of sub totals/ grand totals and color of pivot table.
+Created new pivot tables worksheets by copy and paste and editing table in the pivot field settings.
+Created a pivot chart. (Pivot Table Analyze + Tools + Pivot Chart)
+Created bar chart to summarize findings.
+Created filter on bar chart to be able to summarize sum of sales findings for top 5 managers/ Sorting from largest sales to lowest. ( Row Label + Apply Filter + Top 10/Top 5)
+Removed unwanted labels from bar chart using hide all/ + icon to remove legends on table/ deleting unused labels.
+Added data labels to bars on chart using + icon
+Formated bars on chart; made narrower. (Right click + Format Data Series).
+Added Slicers to further summarize findings for top sales managers of each store and each city in the UK. (Pivot table analayze + Add slicer)
+Auto Expanded data by adding July_data to excel table created earlier using copy + paste and refreshed pivot table (Pivot table Analyze + Refresh all) to get most up to date data.
